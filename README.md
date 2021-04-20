@@ -17,16 +17,22 @@ A second analysis concerned the relation between the fundraising goals of campai
 
 ### Analysis of Outcomes Based on Launch Date
 
+As the attached chart shows, the largest number of successful campaigns for theater projects began between April and August. Though there was also an increased number of failed campaigns during these months, the increase in failed campaigns appears to be relatively small compared to the increase in the number of successful campaigns.
+
 ### Analysis of Outcomes Based on Goals
+
+The second line chart above shows that the best success rates for campaigns in the subcategory "plays" occur when the fundraising goal is set ay less than $15,000 or in a "sweet spot" between $35,000 and $45,000, with success rate plummeting for projects with goals above the $40,000 to $45,000 range.
 
 ### Challenges and Difficulties Encountered
 
+The main challenge with this project was to extract the relevant information from a large data set. This was accomplished using various features of Excel, including pivot charts and conditional formulas, to obtain relevant data from the original data set of Kickstarter campaigns.
+
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Two conclusions I draw from the analysis of outcomes based on launch date are that (1) the greatest success rates appear to occur around the summer, approximately April through August, with the largest number of successful campaigns starting in May and June and (2) the ratio of successful to failed campaigns appears in general to decrease after May, with the number of successful campaigns approaching the number of failed campaings at the end of the calendar year.
 
-- What can you conclude about the Outcomes based on Goals?
+- From the analysis of outcomes based on goal amount, I conclude that the highest percentage of successful campaigns occurs in two ranges, less than $15,000 and between $35,000 and $45,000.
 
-- What are some limitations of this dataset?
+- The main limitation I see with the data set is that it only includes campaigns from 2009-2017. Trends concerning the successfulness of campaigns of the relevant kind may have changed in the last several years.
 
 - What are some other possible tables and/or graphs that we could create?
