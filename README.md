@@ -4,7 +4,7 @@
 In this project, I examine the successfulness of Kickstarter campaigns in the category "theater" in relation to their launch dates and the success of campaings in the subcategory "plays" in relation to their fundraising goals.
 
 ### Purpose
-The purpose of this project is to predict the launch date and goal amount at which a campaign in the theater/plays category will have the greatest liklihood of success. 
+The purpose of this project is to predict the launch date and goal amount at which a proposed campaign in the theater/plays category will have the greatest liklihood of success. 
 
 ## Analysis and Challenges
 One analysis I performed using data from Kickstarter campaigns in the category "theater" concerns the relation between the start date of these campaigns and their eventual outcomes. This relation is depicted in the following graphic.
@@ -17,7 +17,7 @@ A second analysis concerned the relation between the fundraising goals of campai
 
 ### Analysis of Outcomes Based on Launch Date
 
-As the attached chart shows, the largest number of successful campaigns for theater projects began between April and August. Though there was also an increased number of failed campaigns during these months, the increase in failed campaigns appears to be relatively small compared to the increase in the number of successful campaigns.
+As the attached chart shows, the largest number of successful campaigns for theater projects began between April and August. Although there was also an increased number of failed campaigns during these months, the increase in failed campaigns appears to be relatively small compared to the increase in the number of successful campaigns.
 
 ### Analysis of Outcomes Based on Goals
 
@@ -33,6 +33,6 @@ The main challenge with this project was to extract the relevant information fro
 
 - From the analysis of outcomes based on goal amount, I conclude that the highest percentage of successful campaigns occurs in two ranges, less than $15,000 and between $35,000 and $45,000.
 
-- The main limitation I see with the data set is that it only includes campaigns from 2009-2017. Trends concerning the successfulness of campaigns of the relevant kind may have changed in the last several years.
+- The main limitation I see with the data set is that it only includes campaigns from 2009-2017. Trends concerning the successfulness of campaigns of the relevant kind may have changed in the last several years. Another possible limitation would be the arbitrariness of the "successful"/"failed" labels. It is almost certain that some "failed" campaigns raised more money than some "successful" ones since a "failed" campaign could just have a much larger fundraising goal. 
 
-- What are some other possible tables and/or graphs that we could create?
+- Another graphical representation that would be helpful is a chart showing the relation between the rate of success of campaigns and launch date for campaigns in the "plays" subcategory in addition to the chart above showing this for campaigns in the larger "theater" category. I also think a very helpful graphic to have would be a scatter plot with start date (day/month) on one axis and fundraising goal on the other and to give each play campaign a point on the chart color coded based on the success. Though this chart would be hard to get quantitative data from, it would provide a good overview of the whole project and provide some helpful hints for making predictions.
