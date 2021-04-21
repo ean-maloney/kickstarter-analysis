@@ -4,7 +4,7 @@
 In this project, I examine the successfulness of Kickstarter campaigns in the category "theater" in relation to their launch dates and the success of campaings in the subcategory "plays" in relation to their fundraising goals.
 
 ### Purpose
-The purpose of this project is to predict the launch date and goal amount at which a proposed campaign in the theater/plays category will have the greatest liklihood of success. 
+The purpose of this project is to predict the launch date and goal amount at which a proposed campaign in the "theater"/"plays" category will have the greatest liklihood of success. 
 
 ## Analysis and Challenges
 One analysis I performed using data from Kickstarter campaigns in the category "theater" concerns the relation between the start date of these campaigns and their eventual outcomes. This relation is depicted in the following graphic.
