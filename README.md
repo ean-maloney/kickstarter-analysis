@@ -21,7 +21,7 @@ As the attached chart shows, the largest number of successful campaigns for thea
 
 ### Analysis of Outcomes Based on Goals
 
-The second line chart above shows that the best success rates for campaigns in the subcategory "plays" occur when the fundraising goal is set ay less than $15,000 or in a "sweet spot" between $35,000 and $45,000, with success rate plummeting for projects with goals above the $40,000 to $45,000 range.
+The second line chart above shows that the best success rates for campaigns in the subcategory "plays" occur when the fundraising goal is set at less than $15,000 or in a "sweet spot" between $35,000 and $45,000, with success rate plummeting for projects with goals above the $40,000 to $45,000 range.
 
 ### Challenges and Difficulties Encountered
 
