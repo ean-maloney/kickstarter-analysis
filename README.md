@@ -11,7 +11,7 @@ One analysis I performed using data from Kickstarter campaigns in the category "
 
 <img width="240" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/80861610/115411577-970e7800-a1c1-11eb-9400-7daeccf29d1f.png">
 
-A second analysis concerned the relation between the fundraising goals of campaigns in the "plays" subcategory. Represented in the following chart are the percentages of campaigns in different goal ranges which were successful, failed, and canceled.
+A second analysis concerned the relation between the fundraising goals and outcomes of campaigns in the "plays" subcategory. Represented in the following chart are the percentages of campaigns in different goal ranges which were successful, failed, and canceled.
 
 <img width="612" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/80861610/115412167-1734dd80-a1c2-11eb-8370-c0c82c4fb806.png">
 
